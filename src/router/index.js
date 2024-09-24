@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import ProductPage from '../components/ProductPage.vue';
-import Cart from '../components/Cart.vue';
+import Cart from '../components/ShoppingCart.vue';
 
 const routes = [
   {
